@@ -17,6 +17,7 @@
     text-indent: 30px;
     padding-top: 50px;
     color: black;
+    margin-bottom: 3rem;
 }
 
 .container {
@@ -60,10 +61,6 @@
 
 .margin {
     margin-bottom: 2rem;
+    display: block;
 
-}
-
-.margin1 {
-
-    margin-top: 1rem;
 }
