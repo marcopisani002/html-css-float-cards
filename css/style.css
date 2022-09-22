@@ -31,21 +31,23 @@
     margin: auto;
     color: white;
     text-align: middle;
-    width: 620px;
+    width: 520px;
 }
 
 
 .mail {
-
+    
     
     color: rgb(34, 172, 236);
 }
 
 .spec2 {
-    padding-top: 2rem;
+    padding-top: 1rem;
     text-align: center;
 }
 
 .img-spec {
+    height: 8rem;
     float: left;
+
 }
