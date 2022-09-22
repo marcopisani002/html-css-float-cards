@@ -27,6 +27,7 @@
 
 .col1 {
     float: left;
+
     padding-left: 2rem;
     margin: auto;
     color: white;
@@ -40,5 +41,9 @@
 }
 
 .spec2 {
+    padding-left: 250px;
     padding-top: 8px;
+    padding-bottom: 1180;
 }
+
+.img-spec {}
