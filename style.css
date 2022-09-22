@@ -1,6 +1,6 @@
 *{
     font-family: Arial, Helvetica, sans-serif;
-
+     
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -10,9 +10,27 @@
     color: #ed5a7e;
    text-align: center;
    font-weight: bolder;
+   
 }
 .p1{
 text-align: center;
 text-indent: 30px;   
 padding-top: 50px;
+color: black;
+}
+.container{
+
+    background-color: black;
+    display: inline-block;
+}
+.col1{
+color: white;
+text-align: middle;
+}
+.mail{
+   padding-top: 8px;
+    color: rgb(34, 172, 236);
+}
+.spec2{
+    padding-top: 8px;
 }
