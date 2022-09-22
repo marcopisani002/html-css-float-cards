@@ -22,7 +22,7 @@
 .container {
     background-color: black;
     display: inline-block;
-   
+
 }
 
 .col1 {
@@ -34,7 +34,7 @@
 }
 
 .mail {
-    
+
     padding-top: 8px;
     color: rgb(34, 172, 236);
 }
