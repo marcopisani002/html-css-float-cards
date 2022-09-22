@@ -20,22 +20,27 @@
 }
 
 .container {
-    padding-left: 10rem;
-    padding-top: 5rem;
+    width: 1040px;
+    display: block;
+    margin:  auto;
 }
-
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 .col1 {
     background-color: black;
     float: left;
-    padding-left: 10rem;
     margin: auto;
     color: white;
-    width: 520px;
+    width: 33.3%;
 }
 
 
 .mail {
     color: rgb(34, 172, 236);
+    padding-left: 8rem;
 }
 
 .spec2 {
@@ -47,5 +52,4 @@
 .img-spec {
     height: 8rem;
     float: left;
-
 }
